@@ -41,10 +41,6 @@ python -m pip install -r requirements.txt
 python game.py
 ```
 
-On Linux you may need your distribution's Python venv package. If `pip` reports
-that no compatible Pygame distribution is available, check that you are using
-Python 3.12. Run this on a graphical desktop, not a browser-only Python runner.
-
 Controls: A/D or arrow keys move; Space/W/Up jumps; E throws an eye with
 automatic aiming; R restarts only on the win/loss screen; Escape quits. Tap E once for each throw.
 Only the green projectiles hurt you. Platforms can be jumped through from below.
